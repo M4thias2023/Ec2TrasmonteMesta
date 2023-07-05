@@ -1,0 +1,7 @@
+com.mathias.evaluacionc2.test.app-core-1.5.0-0 C:\Users\mathi\.gradle\caches\transforms-3\b115597ce3dbff49e1dc5289fce392a3\transformed\core-1.5.0\res
+com.mathias.evaluacionc2.test.app-annotation-experimental-1.3.0-1 C:\Users\mathi\.gradle\caches\transforms-3\f04190fac85d926c2fa598832a3ec059\transformed\annotation-experimental-1.3.0\res
+com.mathias.evaluacionc2.test.app-androidTest-2 D:\Android\AndroidStudioProjects\EvaluacionC2\app\build\generated\res\resValues\androidTest\debug
+com.mathias.evaluacionc2.test.app-androidTest-3 D:\Android\AndroidStudioProjects\EvaluacionC2\app\build\generated\res\rs\androidTest\debug
+com.mathias.evaluacionc2.test.app-mergeDebugAndroidTestResources-4 D:\Android\AndroidStudioProjects\EvaluacionC2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mathias.evaluacionc2.test.app-mergeDebugAndroidTestResources-5 D:\Android\AndroidStudioProjects\EvaluacionC2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mathias.evaluacionc2.test.app-merged_res-6 D:\Android\AndroidStudioProjects\EvaluacionC2\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_map_color.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\map_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mathias.evaluacionc2.app-merged_res-32:/drawable_background_gradient.xml.flat",
+        "source": "com.mathias.evaluacionc2.app-main-34:/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\layout_fragment_camara.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\layout\\fragment_camara.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\menu_menubottom.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\menu\\menubottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_color_info.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\color_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_baseline_newspaper_24.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\baseline_newspaper_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_baseline_map_24.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\baseline_map_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\layout_fragment_info.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mathi\\.gradle\\daemon\\7.5\\com.mathias.evaluacionc2.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]
